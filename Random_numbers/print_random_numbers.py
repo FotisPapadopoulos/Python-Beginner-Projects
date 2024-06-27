@@ -5,7 +5,7 @@ from random import randrange
 
 # globals
 
-end_number = 10000  # this is maximum number it can be printed
+end_number = 10000  # this is the maximum number it can be printed
 rows = 23  # how many rows the table will have
 cols = 222  # how many columns the table will have, rows * columns gives the total numbers that will be printed
 
